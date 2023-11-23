@@ -44,11 +44,11 @@
 		<m2eclipse.wtp.contextRoot>/</m2eclipse.wtp.contextRoot>
 
 		<!--shopizer version -->
-		<shopizer.version>2.13.0</shopizer.version>
+		<shopizer.version>3.2.3</shopizer.version>
 		<shopizer.search.version>2.11.1</shopizer.search.version>
 		<shopizer-canadapost.version>2.11.0</shopizer-canadapost.version>
 
-		<elasticsearch.version>7.5.2</elasticsearch.version>
+		<elasticsearch.version>7.17.14</elasticsearch.version>
 		<guava.version>27.1-jre</guava.version>
 		<commons-lang.version>3.5</commons-lang.version>
 		<commons-io.version>2.5</commons-io.version>
